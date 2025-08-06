@@ -1,12 +1,54 @@
-# React + Vite
+# 🌟 Basti Ki Pathshala - NGO Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive website for **Basti Ki Pathshala**, a youth-led NGO dedicated to making quality education accessible to children in underserved communities.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Link
 
-## Expanding the ESLint configuration
+🌐 [View Live Project on Netlify](https://basti-ki-pathshala-app.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **React (Vite)**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **Node.js (optional backend)**
+- **Netlify** (for deployment)
+
+## 📂 Project Structure
+
+ngo-website/
+├── public/ # Static assets
+├── src/ # React components & pages
+├── index.html # Root HTML
+├── vite.config.js # Vite configuration
+├── package.json # Project dependencies
+
+
+## ✨ Features
+
+- Fully responsive design
+- About Us, Mission, Vision sections
+- Volunteer form with validation
+- Awards & Recognition section
+- Donation and CTA banners
+- Clean and minimal UI
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/ngo-website.git
+   cd ngo-website
+
+2. **Install dependencies**
+   npm install
+   
+3. **Run locally**
+   npm run dev
+   
+4. **Build for production**
+   npm run build
